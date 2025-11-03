@@ -1,0 +1,30 @@
+id,school_name,state,school_type,grade_level,funding_per_student_usd,avg_test_score_percent,student_teacher_ratio,percent_low_income,percent_minority,internet_access_percent,dropout_rate_percent
+1,Bowman High School,Michigan,Private,High,9575.8,65.9,17.5,30,44,74.1,3.44
+2,Foster High School,Michigan,Charter,Middle,16733.1,87.3,24.2,93.5,40.1,79.9,8.67
+3,Henson High School,New York,Public,Middle,24890.74,72.8,27,58.1,35.8,51.1,14.75
+4,Weaver High School,Texas,Private,Elementary,6857.49,81.5,26.2,82.7,72,55.5,13.45
+5,King Elementary School,Michigan,Public,Elementary,16910.73,44.7,20.2,41.4,16.1,57.8,6.98
+6,Olson Elementary School,Pennsylvania,Private,Elementary,14930.51,46.3,26.8,64.5,12.6,70.1,11.95
+7,Williams Middle School,Georgia,Public,Middle,15914.06,84.8,28.4,30.1,76.8,63,7
+8,Boyd High School,Georgia,Private,High,24162.52,66.9,23.4,66.2,33.9,90.4,8.54
+9,Fox Middle School,New York,Charter,High,6962.53,69.4,11.5,15.7,48.6,98.1,7.19
+10,Garcia High School,New York,Charter,Middle,19092.17,68.6,14.9,89.3,94.3,54.9,1.62
+11,Lucero Middle School,Georgia,Private,High,6285.37,66.8,12.7,77.7,40.7,73.1,13.99
+12,Cline Middle School,Illinois,Charter,Middle,14346.55,74.6,23.7,26.2,25.4,97.5,7.14
+13,Smith High School,California,Public,High,22343.11,59.4,13.9,61.8,13.7,88.3,8.66
+14,Acosta Middle School,New York,Charter,Elementary,10266.69,56.3,10.1,74.3,51.2,96.1,5.68
+15,Luna Elementary School,North Carolina,Private,Middle,10802.16,52.3,28.4,63.3,64.5,65.4,6.37
+16,Mccann High School,Illinois,Private,High,13292.01,47.4,26.7,92.7,20,66.6,9.44
+17,Allen High School,Michigan,Charter,Elementary,23644.5,94.4,26.7,40.4,72.3,77.4,8.56
+18,Salinas High School,Texas,Public,Middle,18044.06,71.7,25.7,54.7,58.7,88.1,9.96
+19,Morris High School,Pennsylvania,Private,Elementary,7851.38,97.9,21.9,82.1,53.5,63.5,1.11
+20,Townsend Middle School,Pennsylvania,Public,Elementary,13440.79,46.2,16.8,75.1,19.2,85.9,5.7
+21,Moss Elementary School,Michigan,Charter,Elementary,17500.61,45,18.8,37.7,80.3,95.1,4.48
+22,Johnson Elementary School,Georgia,Public,Elementary,9020.39,48,14,37.6,36.4,72.4,1.95
+23,Ward Middle School,Georgia,Private,Elementary,7094.65,57.2,25.4,53.6,42.5,65.4,5.51
+24,Chan Middle School,Michigan,Private,Middle,8923.15,54.5,14.8,58,87.4,60.3,9.27
+25,Foley Elementary School,Texas,Private,Middle,20187.31,77.5,27.7,63.8,14.3,57.9,11.36
+26,Vang Elementary School,Illinois,Public,Middle,15223.64,56.2,18.7,34.7,39.8,54.5,3.48
+27,Johnson High School,Texas,Public,High,21981.75,43.5,25.4,93.7,49.8,59.2,11.23
+28,West Middle School,Georgia,Private,High,10043.98,47,13.1,91.4,23.7,68.5,2.17
+29,Gray Elementary School,Georgia,Private,High,12912.16,54.2,24.4,60.9,33,61.8,14.92
